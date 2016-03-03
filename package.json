@@ -8,17 +8,17 @@
     "test": "mocha",
     "ci": "npm run check && npm test"
   },
-  "homepage": "http://github.com/mongodb-js/mongodb-sharding",
+  "homepage": "http://github.com/mongodb-js/sharding",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mongodb-js/mongodb-sharding.git"
+    "url": "git://github.com/mongodb-js/sharding.git"
   },
   "dependencies": {
     "async": "^1.5.0",
     "debug": "^2.2.0",
     "lodash": "^3.10.1",
     "mongodb-instance-model": "^2.1.7",
-    "mongodb-js-errors": "0.0.1"
+    "mongodb-js-errors": "^0.0.1"
   },
   "devDependencies": {
     "eslint-config-mongodb-js": "^1.0.6",
