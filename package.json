@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "async": "^2.1.2",
-    "debug": "^2.2.0",
+    "debug": "2.3.3",
     "lodash": "^4.16.6",
     "mongodb-instance-model": "^3.3.0",
     "mongodb-js-errors": "^0.3.0"
